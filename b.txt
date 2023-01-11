@@ -1,0 +1,3 @@
+this is file b.
+making changes in file b right now.
+making change 2 in file b
